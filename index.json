@@ -3,7 +3,7 @@
         "description": "This project is created for a pizza company. It allows online ordering and allows admins to create new items which can be added to the menu. Admins can check a full list of orders which have been placed already and also view individual orders.",
         "github": "https://github.com/subaquatic-pierre/pizza-app",
         "screenshot": "pizza-app.png",
-        "url": false
+        "url": ""
     },
     {
         "title": "divesandybeach-flask",
