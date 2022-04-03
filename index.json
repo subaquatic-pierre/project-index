@@ -1,5 +1,21 @@
 [
   {
+    "title": "pwa-pipeline",
+    "description": "An AWS Pipeline which use CodePipeline to build the project and CloudFront to host the project. A CloudFormation stack can be launched from the repo. Follow the instructions and you will have a React Application pipeline in production.",
+    "github": "https://github.com/subaquatic-pierre/pwa-pipeline",
+    "screenshot": "",
+    "url": "",
+    "youtube": ""
+  },
+  {
+    "title": "suretta-photography",
+    "description": "A portfolio website for photographers, it is built with React and Gatsby. It features React photo gallery, it is styled with Bootstrap 4. The site is hosted on an AWS S3 bucket with a CD pipeline controlled with AWS Pipeline.",
+    "github": "https://github.com/subaquatic-pierre/suretta-photography",
+    "screenshot": "suretta.png",
+    "url": "",
+    "youtube": ""
+  },
+  {
     "title": "scubadivedubai-django",
     "description": "An E-Commerce application using the Django framework. Functionality includes, authorization and authentication using Django AllAuth and Cripsy forms. It features CSV upload for item management through the Django Admin interface. Hosted on Heroku, static files and media are served using Django storages and AWS S3.",
     "github": "https://github.com/subaquatic-pierre/scubadivedubai-django",
