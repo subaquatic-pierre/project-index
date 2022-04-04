@@ -1,5 +1,60 @@
 [
   {
+    "title": "terraform-aws-ci-cd",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "react-apollo-starter",
+    "screenshot": "react-apollo-starter.png",
+    "youtube": ""
+  },
+  {
+    "title": "django-graphq-starter",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "scubadivedubai",
+    "screenshot": "scubadivedubai.png",
+    "youtube": ""
+  },
+  {
+    "title": "roombda-bots",
+    "screenshot": "roombaBots.png",
+    "youtube": ""
+  },
+  {
+    "title": "azure-test-automation",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "python-hanio",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "algorith-testing",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "binary-converter",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "react-apollo-recipes",
+    "screenshot": "recipes.png",
+    "youtube": ""
+  },
+  {
+    "title": "algorithmic-toolbox",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
     "title": "ballot-online",
     "screenshot": "ballotonline.png",
     "youtube": ""
