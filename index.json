@@ -1,5 +1,25 @@
 [
   {
+    "title": "diveschedule-project",
+    "screenshot": "diveschedule.png",
+    "youtube": ""
+  },
+  {
+    "title": "divesandybeach",
+    "screenshot": "divesandybeach.png",
+    "youtube": ""
+  },
+  {
+    "title": "portfolio-gatsby",
+    "screenshot": "portfolio.png",
+    "youtube": ""
+  },
+  {
+    "title": "terraform-aws-ci-cd",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
     "title": "terraform-aws-ci-cd",
     "screenshot": "",
     "youtube": ""
