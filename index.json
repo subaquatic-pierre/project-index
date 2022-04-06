@@ -10,8 +10,58 @@
     "youtube": ""
   },
   {
+    "title": "monatajarbi",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
     "title": "portfolio-gatsby",
     "screenshot": "portfolio.png",
+    "youtube": ""
+  },
+  {
+    "title": "chat-io",
+    "screenshot": "chat-io.png",
+    "youtube": ""
+  },
+  {
+    "title": "pizza-app",
+    "screenshot": "pizza-app.png",
+    "youtube": ""
+  },
+  {
+    "title": "divesandybeach-flask",
+    "screenshot": "divesandybeach-flask.png",
+    "youtube": ""
+  },
+  {
+    "title": "roomba-bots",
+    "screenshot": "roombaBots.png",
+    "youtube": ""
+  },
+  {
+    "title": "pixel-node-marketplace",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "ztransfer",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "zerochain-sdk-py",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "blogless-project",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "s3-webapp-infrastructure",
+    "screenshot": "",
     "youtube": ""
   },
   {
@@ -32,11 +82,6 @@
   {
     "title": "scubadivedubai-project",
     "screenshot": "scubadivedubai.png",
-    "youtube": ""
-  },
-  {
-    "title": "roomba-bots",
-    "screenshot": "roombaBots.png",
     "youtube": ""
   },
   {
@@ -72,21 +117,6 @@
   {
     "title": "scubadivedubai-django",
     "screenshot": "scubadivedubai.png",
-    "youtube": ""
-  },
-  {
-    "title": "chat-io",
-    "screenshot": "chat-io.png",
-    "youtube": ""
-  },
-  {
-    "title": "pizza-app",
-    "screenshot": "pizza-app.png",
-    "youtube": ""
-  },
-  {
-    "title": "divesandybeach-flask",
-    "screenshot": "divesandybeach-flask.png",
     "youtube": ""
   },
   {
