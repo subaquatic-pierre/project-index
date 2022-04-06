@@ -1,22 +1,22 @@
 [
   {
-    "title": "diveschedule-project",
-    "screenshot": "diveschedule.png",
-    "youtube": ""
-  },
-  {
     "title": "divesandybeach",
     "screenshot": "divesandybeach.png",
     "youtube": ""
   },
   {
-    "title": "monatajarbi",
-    "screenshot": "",
+    "title": "portfolio-gatsby",
+    "screenshot": "portfolio.png",
     "youtube": ""
   },
   {
-    "title": "portfolio-gatsby",
-    "screenshot": "portfolio.png",
+    "title": "divesandybeach-flask",
+    "screenshot": "divesandybeach-flask.png",
+    "youtube": ""
+  },
+  {
+    "title": "monatajarbi",
+    "screenshot": "",
     "youtube": ""
   },
   {
@@ -30,11 +30,6 @@
     "youtube": ""
   },
   {
-    "title": "divesandybeach-flask",
-    "screenshot": "divesandybeach-flask.png",
-    "youtube": ""
-  },
-  {
     "title": "roomba-bots",
     "screenshot": "roombaBots.png",
     "youtube": ""
@@ -42,6 +37,11 @@
   {
     "title": "pixel-node-marketplace",
     "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "diveschedule-project",
+    "screenshot": "diveschedule.png",
     "youtube": ""
   },
   {
