@@ -15,11 +15,6 @@
     "youtube": ""
   },
   {
-    "title": "divesandybeach-flask",
-    "screenshot": "divesandybeach-flask.png",
-    "youtube": ""
-  },
-  {
     "title": "monatajarbi",
     "screenshot": "",
     "youtube": ""
@@ -65,13 +60,23 @@
     "youtube": ""
   },
   {
-    "title": "spa-infrastructure",
+    "title": "pwa-infrastructure",
     "screenshot": "",
     "youtube": ""
   },
   {
-    "title": "terraform-aws-ci-cd",
+    "title": "ci-cd-infrastructure",
     "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "pwa-pipeline",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "divesandybeach-flask",
+    "screenshot": "divesandybeach-flask.png",
     "youtube": ""
   },
   {
@@ -102,11 +107,6 @@
   {
     "title": "ballot-online",
     "screenshot": "ballotonline.png",
-    "youtube": ""
-  },
-  {
-    "title": "pwa-pipeline",
-    "screenshot": "",
     "youtube": ""
   },
   {
