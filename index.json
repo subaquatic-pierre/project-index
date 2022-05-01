@@ -60,17 +60,12 @@
     "youtube": ""
   },
   {
-    "title": "pwa-infrastructure",
+    "title": "pwa-ci-cd",
     "screenshot": "",
     "youtube": ""
   },
   {
-    "title": "ci-cd-infrastructure",
-    "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "pwa-pipeline",
+    "title": "aws-ecs-ci-cd",
     "screenshot": "",
     "youtube": ""
   },
