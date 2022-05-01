@@ -15,18 +15,28 @@
     "youtube": ""
   },
   {
-    "title": "monatajarbi",
+    "title": "serverless-api",
     "screenshot": "",
     "youtube": ""
   },
   {
-    "title": "chat-io",
-    "screenshot": "chat-io.png",
+    "title": "pwa-ci-cd",
+    "screenshot": "",
     "youtube": ""
   },
   {
-    "title": "pizza-app",
-    "screenshot": "pizza-app.png",
+    "title": "aws-ecs-ci-cd",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "pwa-pipeline",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "monatajarbi",
+    "screenshot": "",
     "youtube": ""
   },
   {
@@ -60,18 +70,13 @@
     "youtube": ""
   },
   {
-    "title": "pwa-ci-cd",
-    "screenshot": "",
+    "title": "chat-io",
+    "screenshot": "chat-io.png",
     "youtube": ""
   },
   {
-    "title": "aws-ecs-ci-cd",
-    "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "pwa-pipeline",
-    "screenshot": "",
+    "title": "pizza-app",
+    "screenshot": "pizza-app.png",
     "youtube": ""
   },
   {
