@@ -1,12 +1,12 @@
 [
   {
-    "title": "postmanager",
-    "screenshot": "",
+    "title": "chess-project",
+    "screenshot": "chessRust.png",
     "youtube": ""
   },
   {
-    "title": "react-mui-notify",
-    "screenshot": "muiNotify.png",
+    "title": "postmanager",
+    "screenshot": "",
     "youtube": ""
   },
   {
@@ -17,6 +17,21 @@
   {
     "title": "portfolio-gatsby",
     "screenshot": "portfolio.png",
+    "youtube": ""
+  },
+  {
+    "title": "chat-io",
+    "screenshot": "chat-io.png",
+    "youtube": ""
+  },
+  {
+    "title": "react-mui-notify",
+    "screenshot": "muiNotify.png",
+    "youtube": ""
+  },
+  {
+    "title": "monatajarbi",
+    "screenshot": "monaTajarbi.png",
     "youtube": ""
   },
   {
@@ -32,16 +47,6 @@
   {
     "title": "aws-ecs-ci-cd",
     "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "pwa-pipeline",
-    "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "monatajarbi",
-    "screenshot": "monaTajarbi.png",
     "youtube": ""
   },
   {
@@ -70,33 +75,8 @@
     "youtube": ""
   },
   {
-    "title": "blogless-project",
-    "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "chat-io",
-    "screenshot": "chat-io.png",
-    "youtube": ""
-  },
-  {
-    "title": "pizza-app",
-    "screenshot": "pizza-app.png",
-    "youtube": ""
-  },
-  {
     "title": "divesandybeach-flask",
     "screenshot": "divesandybeach-flask.png",
-    "youtube": ""
-  },
-  {
-    "title": "react-apollo-starter",
-    "screenshot": "react-apollo-starter.png",
-    "youtube": ""
-  },
-  {
-    "title": "django-graphql-starter",
-    "screenshot": "",
     "youtube": ""
   },
   {
@@ -107,11 +87,6 @@
   {
     "title": "azure-test-automation",
     "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "react-apollo-recipes",
-    "screenshot": "recipes.png",
     "youtube": ""
   },
   {
@@ -132,6 +107,11 @@
   {
     "title": "node-sites-blog",
     "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "pizza-app",
+    "screenshot": "pizza-app.png",
     "youtube": ""
   }
 ]
