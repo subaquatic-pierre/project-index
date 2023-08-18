@@ -1,15 +1,5 @@
 [
   {
-    "title": "rader-bot",
-    "screenshot": "",
-    "youtube": ""
-  },
-  {
-    "title": "oros-dev",
-    "screenshot": "",
-    "youtube": ""
-  },
-  {
     "title": "chess-project",
     "screenshot": "chessRust.png",
     "youtube": ""
@@ -32,6 +22,36 @@
   {
     "title": "chat-io",
     "screenshot": "chat-io.png",
+    "youtube": ""
+  },
+  {
+    "title": "diveschedule-project",
+    "screenshot": "diveschedule.png",
+    "youtube": ""
+  },
+  {
+    "title": "divesandybeach-flask",
+    "screenshot": "divesandybeach-flask.png",
+    "youtube": ""
+  },
+  {
+    "title": "scubadivedubai-project",
+    "screenshot": "scubadivedubai.png",
+    "youtube": ""
+  },
+  {
+    "title": "scubadivedubai-django",
+    "screenshot": "scubadivedubai.png",
+    "youtube": ""
+  },
+  {
+    "title": "rader-bot",
+    "screenshot": "",
+    "youtube": ""
+  },
+  {
+    "title": "oros-dev",
+    "screenshot": "",
     "youtube": ""
   },
   {
@@ -69,11 +89,7 @@
     "screenshot": "",
     "youtube": ""
   },
-  {
-    "title": "diveschedule-project",
-    "screenshot": "diveschedule.png",
-    "youtube": ""
-  },
+
   {
     "title": "ztransfer",
     "screenshot": "",
@@ -84,16 +100,7 @@
     "screenshot": "",
     "youtube": ""
   },
-  {
-    "title": "divesandybeach-flask",
-    "screenshot": "divesandybeach-flask.png",
-    "youtube": ""
-  },
-  {
-    "title": "scubadivedubai-project",
-    "screenshot": "scubadivedubai.png",
-    "youtube": ""
-  },
+
   {
     "title": "azure-test-automation",
     "screenshot": "",
@@ -107,11 +114,6 @@
   {
     "title": "suretta-photography",
     "screenshot": "suretta.png",
-    "youtube": ""
-  },
-  {
-    "title": "scubadivedubai-django",
-    "screenshot": "scubadivedubai.png",
     "youtube": ""
   }
 ]
